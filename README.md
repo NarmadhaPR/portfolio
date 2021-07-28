@@ -11,8 +11,319 @@
 
 	<link rel="stylesheet" type="text/css" href="style.css">
 	 <script src="https://kit.fontawesome.com/dd0e2b7f37.js" crossorigin="anonymous"></script>
-	<title>Portfolio</title>
-</head>
+	<title>Portfolio</title
+	<style type="text/css">
+		body
+{
+   margin: 10px;
+}
+
+.menu
+{
+   position: fixed;
+   border: 3px ;
+   word-spacing: 2em;
+   padding-top: 20px;
+   padding-bottom:20px;
+   padding-left: 1498px;
+   font-size: 20px;
+   padding-right: 25px;
+   background-color:#2eb8b8
+;
+   font-family: fantasy;
+   opacity: 40%;
+}
+
+.image1
+{
+	float: right;
+   margin-top: -450px;
+}
+.img1
+{
+   height: 150px;
+   width: 270px;
+   padding-left: 5px;
+   padding-right: 5px;
+}
+.img2
+{
+ 
+   height: 150px;
+   width: 270px;
+   padding-left: 5px;
+   padding-right: 5px;
+}
+.img3
+{
+ height: 150px;
+   width: 270px;
+   padding-left: 5px;
+   padding-right: 5px;
+}
+.Text
+{
+ width: 250px;
+}
+		.img11
+{
+   height: 150px;
+   width: 270px;
+   padding-left: 5px;
+   padding-right: 2px;
+}
+.img22
+{
+ 
+   height: 150px;
+   width: 270px;
+   padding-left: 5px;
+   padding-right: 2px;
+}
+.img33
+{
+ height: 150px;
+   width: 270px;
+   padding-left: 5px;
+   padding-right: 2px;
+}
+.Text11
+{
+ width: 250px;
+}
+.name
+{
+   padding-top: 300px;
+   width: 700px;
+   padding-left: 200px;
+   font-size: 20px;
+   color:#88cc00 ;
+}
+
+.about
+{
+   padding-top: 350px;
+   display: block;
+}
+
+.techskills
+{
+   padding-top: 50px;
+}
+		.container{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.container ul{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.container ul li{
+    float:left;
+    list-style: none;
+    width:25%;
+    height:300px;
+    margin :20px 0px 20px 55px; 
+    border:2px solid black;
+    box-sizing: border-box;
+}
+.container ul li:hover{
+    opacity: 0.8;
+}
+
+.container ul li .bottom{
+    width: 100%;
+    height:50px;
+    line-height: 50px;   
+    text-align: center;
+    font-size: 20px;
+   
+}
+ 
+
+
+.container1{
+    width: 60%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.container1 ul{
+    padding: 0px;
+    margin: 0px;
+}
+		.container1 ul li{
+    float:left;
+    list-style: none;
+    width:25%;
+    height:300px;
+    margin :20px 0px 20px 55px; 
+    border:2px solid black;
+    background-color:white;
+    box-sizing: border-box;
+}
+.container1 ul li:hover{
+    opacity: 0.8;
+}
+
+.container1 ul li .bottom{
+    width: 100%;
+    height:50px;
+    line-height: 50px;   
+    text-align: center;
+    background-color:#88cc00;
+    font-size: 30px;
+   
+}
+ 
+
+ .container2{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.container1 ul{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.container2 ul li{
+    float:left;
+    list-style: none;
+    width:40%;
+    height:300px;
+    margin :20px 0px 20px 55px; 
+    border:2px solid black;
+    background-color:;
+    box-sizing: border-box;
+}
+		.container2 ul li:hover{
+    opacity: 0.8;
+}
+
+.container2 ul li .bottom{
+    width: 100%;
+    height:50px;
+    line-height: 50px;   
+    text-align: center;
+    background-color:;
+    font-size: 20px;
+   
+}
+.container
+{
+   padding-top: 250px;
+}
+.container1
+{
+   padding-top: 50px;
+}
+.container2
+{
+   padding-top: 100px;
+}
+.menu a
+{
+   text-decoration: none;
+   font-size:20px;
+   color: white;
+
+}
+.container h1
+{
+   font-family:fantasy; 
+   color:#00cccc
+}
+.container2 h1
+{
+   font-family:fantasy; 
+   color:#00cccc;
+}
+}
+.container3 h1
+{
+   font-family:fantasy; 
+   color:white;
+}
+		
+.container3
+{
+   margin-top: 100px;
+   padding-left: 100px;
+   background-color:#9999ff ;
+   padding-top: 10px;
+   padding-bottom: 40px;
+   text-align: center;
+   opacity:90%;
+   border: 2px red dotted;
+}
+
+.button1
+{
+  background-color:#2eb8b8;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  opacity: 40%;
+  margin-left: 300px;
+  padding: 15px;
+}
+.button1 a
+{
+   text-decoration: none;
+   color: white;
+   font-family: fantasy;
+   border-radius: 80%;
+}
+#insta
+{
+   border: 2px white solid;
+   width: 60px;
+   padding: 5px;
+   margin-left: 900px;
+   margin-top: 50px;
+
+}
+		#mail
+{
+   border: 2px white solid;
+   width: 60px;
+   padding: 5px;
+   margin-left: 800px;
+margin-bottom: 20px;
+margin-top: -37px;
+
+}
+
+.container3 h1
+{
+   padding-left: -1px;
+   color: white;
+}
+#addr 
+{
+   padding-left: 40px;
+   size: 400px;
+}
+
+		
+	</style>
+	
+	
+	
+</head><
 <body>
     <!-- bootstrap-->
 
